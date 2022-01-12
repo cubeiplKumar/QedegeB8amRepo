@@ -31,6 +31,7 @@ public static void sampleMethod(int a, int b) throws ArithmeticException{
 public static void main (String[] args){
     DemoClass.sampleMethod(4,2);     
  }
+  
 
 
 }
