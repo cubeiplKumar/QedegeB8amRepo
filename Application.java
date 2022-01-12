@@ -22,4 +22,12 @@ class Main {
       e.getStackTrace();
     }
   }
+  //uat-200 changes by mahender
+  // reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
+
 }
