@@ -31,11 +31,14 @@ public static void sampleMethod(int a, int b) throws ArithmeticException{
 public static void main (String[] args){
     DemoClass.sampleMethod(4,2);     
  }
+
 //feature 200 changes done by Mahender
 public static void main(String[] args) {
     
     int num1 = 25;
     int num2 = 15;
+
+  
 
     // create an object of Main
     Main obj = new Main();
