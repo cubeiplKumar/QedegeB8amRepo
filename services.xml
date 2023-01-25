@@ -29,7 +29,5 @@ http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
 -
 	<taglib>
 <taglib-uri>/com/sun/web/taglibs/cache</taglib-uri>
-<taglib-location>/WEB-INF/sun-web-cache.tld</taglib-location>
-</taglib>
 </web-app>new updates for jenkins job 
 experimenting with the git fetch 
